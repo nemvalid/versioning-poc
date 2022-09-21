@@ -1,0 +1,9 @@
+{
+  "name": "versioning-poc",
+  "version": "1.0.0",
+  "description": "Versioning and dependency management for pOS modules",
+  "main": "index.js",
+  "repository": "https://github.com/nemvalid/versioning-poc.git",
+  "author": "nemvalid",
+  "license": "MIT"
+}
